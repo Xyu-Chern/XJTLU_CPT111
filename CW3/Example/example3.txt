@@ -1,0 +1,6 @@
+Students'Marks
+students
+>=90 4
+70-90 28
+40-70 60
+<40 14

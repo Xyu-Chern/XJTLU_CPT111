@@ -1,0 +1,51 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ScannerDemo",
+      "request": "launch",
+      "mainClass": "ScannerDemo",
+      "projectName": "week1_9d196621"
+    },
+    {
+      "type": "java",
+      "name": "mall",
+      "request": "launch",
+      "mainClass": "mall",
+      "projectName": "week1_9d196621"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Hello_bc317f24"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/28449/Desktop/undergraduate/XJTLU/xjtlu M2 S1/cpt111/week1",
+      "program": "c:/Users/28449/Desktop/undergraduate/XJTLU/xjtlu M2 S1/cpt111/week1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+The number of staff
+Total
+professors 60
+lectuerers 70
+DAs 20
+administrators 200
